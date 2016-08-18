@@ -1,6 +1,6 @@
 ##Rest DB API##
 
-This is a python inspiered by sandman2 to help convert tables in any database supported by SQlAlchemy to a fully functional API with support for read, write and delete.
+This is a python script inspiered by sandman2 to help convert tables in any database supported by SQlAlchemy to a fully functional API with support for read, write and delete.
 
 ### Current Version ###
 0.01 pre-Alpha-1 as I have just completed development and will need time to structure it to a proper python project structure.
